@@ -1,0 +1,5 @@
+{
+    "port": "COM4",
+    "rate": 9600,
+    "folder": "./shortcuts"
+}
